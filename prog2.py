@@ -8,7 +8,7 @@ elif expression:
 else:
     print ('')
 '''
-
+' yes i forgot the python code , becasus almost from two weeks , ihave not seen again python code.
 
 '''
 val = float (input ("Enter float value: "))
