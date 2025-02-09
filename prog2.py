@@ -75,4 +75,5 @@ match choice:
 
 x = int (input ('Enter your table no='))
 for i in range(1,11):
- print(f'{x} x {i} = {x*i}')   
+ print(f'{x} x {i} = {x*i}') 
+ print("You done it")   
